@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Sheldon  
+### Junior DevOps Engineer | Cloud • Automation • Infrastructure
 
-<!--
-**SHDevOpsCloud/SHDevOpsCloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m transitioning from Technical Support into DevOps, focusing on building real‑world skills in:
 
-Here are some ideas to get you started:
+- **Linux & Bash**
+- **Docker & Containers**
+- **Kubernetes**
+- **CI/CD Pipelines**
+- **Infrastructure as Code**
+- **Cloud Platforms (Azure & AWS)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving problems, automating workflows, and learning tools that make systems more reliable and scalable.
+
+---
+
+## 🔧 Technologies & Tools  
+- **Languages:** Python, Bash, PowerShell  
+- **DevOps:** Docker, Kubernetes, Helm, GitHub Actions  
+- **Cloud:** Azure, AWS  
+- **OS:** Linux (Ubuntu), Windows  
+- **Other:** FastAPI, YAML, Git
+
+---
+
+## 📚 What I'm Working On  
+- Building containerized apps with Docker  
+- Deploying services on Kubernetes  
+- Learning CI/CD automation  
+- Improving my Linux skills  
+- Creating small DevOps projects to showcase on GitHub
+
+---
+
+## 📫 Contact  
+I keep my email private on GitHub, but you can reach me through LinkedIn (link coming soon).
