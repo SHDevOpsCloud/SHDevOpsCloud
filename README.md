@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sheldon  
+# Hi, I'm Sheldon  
 ### Junior DevOps Engineer | Cloud • Automation • Infrastructure
 
 I’m transitioning from Technical Support into DevOps, focusing on building real‑world skills in:
@@ -14,7 +14,7 @@ I enjoy solving problems, automating workflows, and learning tools that make sys
 
 ---
 
-## 🔧 Technologies & Tools  
+## Technologies & Tools  
 - **Languages:** Python, Bash, PowerShell  
 - **DevOps:** Docker, Kubernetes, Helm, GitHub Actions  
 - **Cloud:** Azure, AWS  
@@ -23,7 +23,7 @@ I enjoy solving problems, automating workflows, and learning tools that make sys
 
 ---
 
-## 📚 What I'm Working On  
+## What I'm Working On  
 - Building containerized apps with Docker  
 - Deploying services on Kubernetes  
 - Learning CI/CD automation  
@@ -32,5 +32,5 @@ I enjoy solving problems, automating workflows, and learning tools that make sys
 
 ---
 
-## 📫 Contact  
+## Contact  
 I keep my email private on GitHub, but you can reach me through LinkedIn (link coming soon).
