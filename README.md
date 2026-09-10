@@ -21,8 +21,8 @@ Linux • Python • Bash • Git • Docker • Prometheus • Grafana • Moni
 
 ### Contact
 - shorsford.devops@outlook.com  
-- LinkedIn: linkedin.com/in/sheldon-horsford-7656a2372  
-- GitHub: github.com/SHDevOpsCloud
+- **LinkedIn:** linkedin.com/in/sheldon-horsford-7656a2372  
+- **GitHub:** github.com/SHDevOpsCloud
 
 **LinkedIn:** https://www.linkedin.com/in/sheldon-horsford-7656a2372
 
