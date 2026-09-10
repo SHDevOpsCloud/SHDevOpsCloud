@@ -20,9 +20,9 @@ Linux • Python • Bash • Git • Docker • Prometheus • Grafana • Moni
 - **Resume & Portfolio** — professional documents and templates  
 
 ### Contact
-📧 shorsford.devops@outlook.com  
-🔗 LinkedIn: linkedin.com/in/sheldon-horsford-7656a2372  
-🔗 GitHub: github.com/SHDevOpsCloud
+- shorsford.devops@outlook.com  
+- LinkedIn: linkedin.com/in/sheldon-horsford-7656a2372  
+- GitHub: github.com/SHDevOpsCloud
 
 **LinkedIn:** https://www.linkedin.com/in/sheldon-horsford-7656a2372
 
